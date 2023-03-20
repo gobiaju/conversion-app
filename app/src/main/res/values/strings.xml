@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">george-conversion-app</string>
+    <string name="convert_from">convert from...</string>
+    <string-array name="conversions">
+        <item>Inches to Centimeters</item>
+        <item>Centimeters to Inches</item>
+        <item>Feet to Inches</item>
+        <item>Inches to Feet</item>
+        <item>Feet to Meters</item>
+        <item>Meters to Feet</item>
+    </string-array>
+</resources>
